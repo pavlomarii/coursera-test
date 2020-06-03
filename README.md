@@ -1,4 +1,4 @@
-# My solutions to the course on Coursera.
+# My solutions to the course on Coursera. Branch gh-pages.
 https://www.coursera.org/learn/html-css-javascript-for-web-developers/
 
 You can see my sertificate below:
